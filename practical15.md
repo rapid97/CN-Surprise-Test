@@ -194,6 +194,8 @@ write memory
 exit
 ```
 
+![Figure](Screenshots/4a.png)
+
 ### Step 4.2 – R1 Configuration
 
 ```bash
@@ -227,6 +229,8 @@ write memory
 exit
 ```
 
+![Figure](Screenshots/4b.png)
+
 ### Step 4.3 – R2 Configuration
 
 ```bash
@@ -254,8 +258,6 @@ write memory
 exit
 ```
 
-![Figure](Screenshots/4a.png)
-![Figure](Screenshots/4b.png)
 ![Figure](Screenshots/4c.png)
 
 ---
@@ -294,6 +296,7 @@ From **PC0**, run:
 ping 192.168.20.70
 ping 192.168.20.140
 ```
+![Figure](Screenshots/5c1.png)
 
 From **PC3**, ping **PC4**:
 
@@ -301,7 +304,6 @@ From **PC3**, ping **PC4**:
 ping 192.168.20.140
 ```
 
-![Figure](Screenshots/5c1.png)
 ![Figure](Screenshots/5c2.png)
 
 Repeat pings between any devices across networks.
