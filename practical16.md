@@ -39,7 +39,7 @@ This network includes:
 
 The goal is for PCs in AS 100 to reach PCs in AS 200 (and vice-versa) purely through BGP-advertised routes.
 
-![Figure](Screenshots/16-1.png))
+![Figure](Screenshots/16-1.png)
 
 ---
 
