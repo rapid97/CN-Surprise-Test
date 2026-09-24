@@ -115,7 +115,7 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC2 | 172.16.2.10  | 255.255.255.0   | 172.16.2.1        |
 | PC3 | 172.16.2.11  | 255.255.255.0   | 172.16.2.1        |
 
-![Figure](Screenshots/16-3.png))
+![Figure](Screenshots/16-3.png)
 
 ```{admonition} Important
 :class: important
